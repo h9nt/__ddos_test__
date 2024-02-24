@@ -67,4 +67,4 @@ def __http_flood__(ip: int, port: int, duration: int) -> None:
         __socket__.close()
 
 
-__udp__("217.248.193.104", 80, "dfwfeefwfewfefew", 100)
+__udp__("", , "", )
